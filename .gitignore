@@ -1,0 +1,10 @@
+# Idea Settings
+.idea/
+
+# VSCode Settings
+.vscode/
+
+# objects
+*.o
+*/nnp.x
+*/main
