@@ -3,7 +3,7 @@
 
 ## build
 ```shell
-cd tensoralloy_demo
+cd kernel_demo
 make
 ```
 

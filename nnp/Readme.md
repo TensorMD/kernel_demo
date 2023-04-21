@@ -15,3 +15,4 @@ make
 
 ## notice
 - a should be the multiple of 64 * block
+- need to activate 65 mpi processes if verifing the nnp_pseudo_athread
